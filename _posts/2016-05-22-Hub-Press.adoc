@@ -2,3 +2,5 @@
 :hp-tags: HubPress
 
 HubPress — использует для разметки не MarkDown, а какой-то неудобный велосипед под названием http://asciidoc.org[AsciiDoc]. Русские заголовки этот «движок» не понимает.
+
+Админка блога находится по ссылке http://gitblog.pp.ua/blog/hubpress/, входить нужно под своим аккаунтом GitHub.
