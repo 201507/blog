@@ -1,14 +1,7 @@
-= Test!
+= HubPress
 
-А здесь текст для поста...
+HubPress — использует для разметки не MarkDown, а какой-то неудобный велосипед под названием http://asciidoc.org[AsciiDoc].
 
-[quote]
-____
-Quoted text.
+IMPORTANT: Important.
 
-Another paragraph in quote.
-____
-
-'''
-
-sdsdsdsd <mark>mark element</mark>
+TIP: Tip.
