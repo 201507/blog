@@ -1,7 +1,3 @@
 = HubPress
 
-HubPress — использует для разметки не MarkDown, а какой-то неудобный велосипед под названием http://asciidoc.org[AsciiDoc].
-
-IMPORTANT: Important.
-
-TIP: Tip.
+HubPress — использует для разметки не MarkDown, а какой-то неудобный велосипед под названием http://asciidoc.org[AsciiDoc]. Русские заголовки этот «движок» не понимает.
